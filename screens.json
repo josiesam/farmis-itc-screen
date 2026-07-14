@@ -1,0 +1,398 @@
+[
+  {
+    "number": 1,
+    "title": "Splash Screen",
+    "section": "App foundation",
+    "purpose": "Brand entry and loading state",
+    "priority": "P0",
+    "owner": "Product Designer",
+    "file": "screens/01-splash-screen.html"
+  },
+  {
+    "number": 2,
+    "title": "Onboarding Slides",
+    "section": "App foundation",
+    "purpose": "Explain value proposition and offline-first behavior",
+    "priority": "P0",
+    "owner": "Product Designer",
+    "file": "screens/02-onboarding-slides.html"
+  },
+  {
+    "number": 3,
+    "title": "Login Screen",
+    "section": "App foundation",
+    "purpose": "Phone number or basic login entry",
+    "priority": "P0",
+    "owner": "Product Designer",
+    "file": "screens/03-login-screen.html"
+  },
+  {
+    "number": 4,
+    "title": "Verification Screen",
+    "section": "App foundation",
+    "purpose": "Confirm user identity or role",
+    "priority": "P0",
+    "owner": "Operations Lead",
+    "file": "screens/04-verification-screen.html"
+  },
+  {
+    "number": 5,
+    "title": "Role Selection Screen",
+    "section": "App foundation",
+    "purpose": "Farmer, buyer, agro-dealer, agent, admin",
+    "priority": "P0",
+    "owner": "Product Designer",
+    "file": "screens/05-role-selection-screen.html"
+  },
+  {
+    "number": 6,
+    "title": "Home Dashboard",
+    "section": "Home and dashboard",
+    "purpose": "Quick access to advisory, stock, marketplace, and sync state",
+    "priority": "P0",
+    "owner": "Product Designer",
+    "file": "screens/06-home-dashboard.html"
+  },
+  {
+    "number": 7,
+    "title": "Offline State Screen",
+    "section": "Home and dashboard",
+    "purpose": "Show saved content and sync pending items",
+    "priority": "P1",
+    "owner": "UX Designer",
+    "file": "screens/07-offline-state-screen.html"
+  },
+  {
+    "number": 8,
+    "title": "Notifications Screen",
+    "section": "Home and dashboard",
+    "purpose": "Alerts, reminders, stock updates, and match updates",
+    "priority": "P1",
+    "owner": "Product Designer",
+    "file": "screens/08-notifications-screen.html"
+  },
+  {
+    "number": 9,
+    "title": "Knowledge Hub Landing Page",
+    "section": "Knowledge hub",
+    "purpose": "Browse agricultural topics",
+    "priority": "P0",
+    "owner": "Product Designer",
+    "file": "screens/09-knowledge-hub-landing-page.html"
+  },
+  {
+    "number": 10,
+    "title": "Category Browse Screen",
+    "section": "Knowledge hub",
+    "purpose": "Crop, livestock, post-harvest, storage, agribusiness",
+    "priority": "P1",
+    "owner": "Product Designer",
+    "file": "screens/10-category-browse-screen.html"
+  },
+  {
+    "number": 11,
+    "title": "Article Detail Screen",
+    "section": "Knowledge hub",
+    "purpose": "Read guides and advisory content",
+    "priority": "P0",
+    "owner": "Product Designer",
+    "file": "screens/11-article-detail-screen.html"
+  },
+  {
+    "number": 12,
+    "title": "Audio Content Player Screen",
+    "section": "Knowledge hub",
+    "purpose": "Play advisory/audio lessons",
+    "priority": "P2",
+    "owner": "Product Designer",
+    "file": "screens/12-audio-content-player-screen.html"
+  },
+  {
+    "number": 13,
+    "title": "Download for Offline Screen",
+    "section": "Knowledge hub",
+    "purpose": "Save content packs locally",
+    "priority": "P1",
+    "owner": "Mobile Designer",
+    "file": "screens/13-download-for-offline-screen.html"
+  },
+  {
+    "number": 14,
+    "title": "Learning Module List Screen",
+    "section": "Learning and research",
+    "purpose": "Structured training content",
+    "priority": "P2",
+    "owner": "Product Designer",
+    "file": "screens/14-learning-module-list-screen.html"
+  },
+  {
+    "number": 15,
+    "title": "Lesson Detail Screen",
+    "section": "Learning and research",
+    "purpose": "Step-by-step learning content",
+    "priority": "P2",
+    "owner": "Product Designer",
+    "file": "screens/15-lesson-detail-screen.html"
+  },
+  {
+    "number": 16,
+    "title": "Quiz / Checkpoint Screen",
+    "section": "Learning and research",
+    "purpose": "Validate understanding",
+    "priority": "P2",
+    "owner": "Product Designer",
+    "file": "screens/16-quiz-checkpoint-screen.html"
+  },
+  {
+    "number": 17,
+    "title": "Field Note Capture Screen",
+    "section": "Learning and research",
+    "purpose": "Record observations or experiments",
+    "priority": "P2",
+    "owner": "UX Designer",
+    "file": "screens/17-field-note-capture-screen.html"
+  },
+  {
+    "number": 18,
+    "title": "Research Log Screen",
+    "section": "Learning and research",
+    "purpose": "Track trials, results, and notes",
+    "priority": "P2",
+    "owner": "UX Designer",
+    "file": "screens/18-research-log-screen.html"
+  },
+  {
+    "number": 19,
+    "title": "Inventory Overview Screen",
+    "section": "Inventory and storage",
+    "purpose": "See all stock at a glance",
+    "priority": "P0",
+    "owner": "Product Designer",
+    "file": "screens/19-inventory-overview-screen.html"
+  },
+  {
+    "number": 20,
+    "title": "Add Stock Screen",
+    "section": "Inventory and storage",
+    "purpose": "Create a new stock entry",
+    "priority": "P0",
+    "owner": "UX Designer",
+    "file": "screens/20-add-stock-screen.html"
+  },
+  {
+    "number": 21,
+    "title": "Stock Detail Screen",
+    "section": "Inventory and storage",
+    "purpose": "View quantity, location, condition, and history",
+    "priority": "P2",
+    "owner": "Product Designer",
+    "file": "screens/21-stock-detail-screen.html"
+  },
+  {
+    "number": 22,
+    "title": "Edit Stock Movement Screen",
+    "section": "Inventory and storage",
+    "purpose": "Add stock in/out updates",
+    "priority": "P2",
+    "owner": "UX Designer",
+    "file": "screens/22-edit-stock-movement-screen.html"
+  },
+  {
+    "number": 23,
+    "title": "Storage Unit Screen",
+    "section": "Inventory and storage",
+    "purpose": "View storage sites and linked stock",
+    "priority": "P1",
+    "owner": "Product Designer",
+    "file": "screens/23-storage-unit-screen.html"
+  },
+  {
+    "number": 24,
+    "title": "Low Stock Alert Screen",
+    "section": "Inventory and storage",
+    "purpose": "Flag low quantities or risks",
+    "priority": "P2",
+    "owner": "Product Designer",
+    "file": "screens/24-low-stock-alert-screen.html"
+  },
+  {
+    "number": 25,
+    "title": "Marketplace Landing Page",
+    "section": "Marketplace",
+    "purpose": "Browse products and services",
+    "priority": "P0",
+    "owner": "Product Designer",
+    "file": "screens/25-marketplace-landing-page.html"
+  },
+  {
+    "number": 26,
+    "title": "Search and Filter Screen",
+    "section": "Marketplace",
+    "purpose": "Filter by crop, price, location, quantity, and verification",
+    "priority": "P1",
+    "owner": "Product Designer",
+    "file": "screens/26-search-and-filter-screen.html"
+  },
+  {
+    "number": 27,
+    "title": "Listing Detail Screen",
+    "section": "Marketplace",
+    "purpose": "View item, seller, price, and availability",
+    "priority": "P0",
+    "owner": "Product Designer",
+    "file": "screens/27-listing-detail-screen.html"
+  },
+  {
+    "number": 28,
+    "title": "Create Listing Screen",
+    "section": "Marketplace",
+    "purpose": "Add produce, inputs, or services",
+    "priority": "P2",
+    "owner": "UX Designer",
+    "file": "screens/28-create-listing-screen.html"
+  },
+  {
+    "number": 29,
+    "title": "Reserve / Request Screen",
+    "section": "Marketplace",
+    "purpose": "Initiate transaction intent",
+    "priority": "P1",
+    "owner": "Product Designer",
+    "file": "screens/29-reserve-request-screen.html"
+  },
+  {
+    "number": 30,
+    "title": "Seller Profile Screen",
+    "section": "Marketplace",
+    "purpose": "Show trust, ratings, and history",
+    "priority": "P2",
+    "owner": "Product Designer",
+    "file": "screens/30-seller-profile-screen.html"
+  },
+  {
+    "number": 31,
+    "title": "Buyer Profile Screen",
+    "section": "Marketplace",
+    "purpose": "Show buyer credibility and activity",
+    "priority": "P2",
+    "owner": "Product Designer",
+    "file": "screens/31-buyer-profile-screen.html"
+  },
+  {
+    "number": 32,
+    "title": "Verification Status Screen",
+    "section": "Trust and support",
+    "purpose": "Show verified, pending, or flagged status",
+    "priority": "P2",
+    "owner": "Operations Lead",
+    "file": "screens/32-verification-status-screen.html"
+  },
+  {
+    "number": 33,
+    "title": "Help and Support Screen",
+    "section": "Trust and support",
+    "purpose": "Assistance, FAQs, and contact options",
+    "priority": "P1",
+    "owner": "Product Designer",
+    "file": "screens/33-help-and-support-screen.html"
+  },
+  {
+    "number": 34,
+    "title": "Report Issue Screen",
+    "section": "Trust and support",
+    "purpose": "Dispute, fraud, or incorrect listing reports",
+    "priority": "P2",
+    "owner": "UX Designer",
+    "file": "screens/34-report-issue-screen.html"
+  },
+  {
+    "number": 35,
+    "title": "Agent Dashboard Screen",
+    "section": "Trust and support",
+    "purpose": "Onboard users and verify activity",
+    "priority": "P2",
+    "owner": "Operations Lead",
+    "file": "screens/35-agent-dashboard-screen.html"
+  },
+  {
+    "number": 36,
+    "title": "Profile Overview Screen",
+    "section": "Profile and settings",
+    "purpose": "Identity, role, and activity summary",
+    "priority": "P0",
+    "owner": "Product Designer",
+    "file": "screens/36-profile-overview-screen.html"
+  },
+  {
+    "number": 37,
+    "title": "Edit Profile Screen",
+    "section": "Profile and settings",
+    "purpose": "Update account details",
+    "priority": "P2",
+    "owner": "UX Designer",
+    "file": "screens/37-edit-profile-screen.html"
+  },
+  {
+    "number": 38,
+    "title": "Settings Screen",
+    "section": "Profile and settings",
+    "purpose": "Language, notifications, privacy, and sync settings",
+    "priority": "P1",
+    "owner": "Product Designer",
+    "file": "screens/38-settings-screen.html"
+  },
+  {
+    "number": 39,
+    "title": "Data and Storage Settings Screen",
+    "section": "Profile and settings",
+    "purpose": "Manage downloads, cache, and offline content",
+    "priority": "P2",
+    "owner": "Mobile Designer",
+    "file": "screens/39-data-and-storage-settings-screen.html"
+  },
+  {
+    "number": 40,
+    "title": "Admin Dashboard",
+    "section": "Admin",
+    "purpose": "Monitor users, listings, content, and usage",
+    "priority": "P2",
+    "owner": "Product Designer",
+    "file": "screens/40-admin-dashboard.html"
+  },
+  {
+    "number": 41,
+    "title": "Content Moderation Screen",
+    "section": "Admin",
+    "purpose": "Approve or edit knowledge content",
+    "priority": "P2",
+    "owner": "Content Lead",
+    "file": "screens/41-content-moderation-screen.html"
+  },
+  {
+    "number": 42,
+    "title": "User Verification Queue",
+    "section": "Admin",
+    "purpose": "Review pending users",
+    "priority": "P2",
+    "owner": "Operations Lead",
+    "file": "screens/42-user-verification-queue.html"
+  },
+  {
+    "number": 43,
+    "title": "Marketplace Moderation Screen",
+    "section": "Admin",
+    "purpose": "Review suspicious or expired listings",
+    "priority": "P2",
+    "owner": "Operations Lead",
+    "file": "screens/43-marketplace-moderation-screen.html"
+  },
+  {
+    "number": 44,
+    "title": "Analytics Screen",
+    "section": "Admin",
+    "purpose": "Track usage, transactions, and pilot metrics",
+    "priority": "P2",
+    "owner": "Data Analyst",
+    "file": "screens/44-analytics-screen.html"
+  }
+]
